@@ -1,7 +1,5 @@
 # SQL-Advanced-Level-
-
-#  SQL Interview Prep — 30 Day Challenge
-
+# Day 1
 Practicing real-world SQL for Business Analyst 
 and Data Analyst interviews.
 
