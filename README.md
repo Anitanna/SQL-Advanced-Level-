@@ -1,4 +1,4 @@
-# SQL-Advanced-Level-
+# SQL-Interview-Prep
 # [Day 1](https://github.com/Anitanna/SQL-Advanced-Level-/commit/90d7c5d2e4a3c47c27b46787c50a6e09febea808)
 Practicing real-world SQL for Business Analyst 
 and Data Analyst interviews.
