@@ -1,3 +1,4 @@
+# Window Functions
 USE RetailCo;
 GO
 -- Q1 [EASY] - ROW_NUMBER basics
@@ -86,6 +87,7 @@ Customers A ON A.customer_id = C.customer_id
 Group by C.region, C. customer_id, A.name)t
 where rank_in_region <3
 
+# CTE
 ;WITH Customer_revenue as
 (Select C.region, C.customer_id, A.name,SUM(C.total_amount) as total_revenue,
 Dense_Rank() over(partition by C.region order by sum(c.total_amount) DESC )as rank_in_region
