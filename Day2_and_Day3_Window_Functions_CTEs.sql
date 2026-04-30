@@ -1,4 +1,4 @@
-# Window Functions
+# Window Functions 
 USE RetailCo;
 GO
 -- Q1 [EASY] - ROW_NUMBER basics
